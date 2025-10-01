@@ -1,5 +1,6 @@
 # 📘 Đại học Giao thông vận tải Thành phố Hồ Chí Minh - Cấu trúc dữ liệu và Giải thuật 
-Tài liệu này được tạo ra nhằm mục đích ôn tập lại kiến thức trên trường, đồng thời chia sẻ source code tham khảo. Nếu có sai sót hoặc góp ý gì, vui lòng liên hệ để mình chỉnh sửa và hoàn thiện hơn.  
+✏️ Tài liệu này được tạo ra nhằm mục đích ôn tập lại kiến thức trên trường, đồng thời chia sẻ source code tham khảo.  
+📩 Nếu có sai sót hay góp ý, vui lòng liên hệ qua email: **anhkhoi5602@gmail.com**  
 
 ## 🔍 Chương 2. Các giải thuật tìm kiếm
 - 🔹 Tìm kiếm tuyến tính  
